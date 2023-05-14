@@ -2,3 +2,5 @@
 .DS_Store
 .vscode
 *_build
+homeworks/open_mpi_prime_numbers/bag_of_tasks/build/*
+homeworks/open_mpi_prime_numbers/naive/build/*
